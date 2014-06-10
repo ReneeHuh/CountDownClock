@@ -1,0 +1,23 @@
+C:\Users\bacon21\AppData\Local\Temporary Projects\CountDownClock\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\bacon21\AppData\Local\Temporary Projects\CountDownClock\obj\Debug\CountDownClock.Form1.resources
+C:\Users\bacon21\AppData\Local\Temporary Projects\CountDownClock\obj\Debug\CountDownClock.Properties.Resources.resources
+C:\Users\bacon21\AppData\Local\Temporary Projects\CountDownClock\obj\Debug\CountDownClock.csproj.GenerateResource.Cache
+C:\Users\bacon21\Documents\Visual Studio 2008\Projects\CountDownClock\CountDownClock\bin\Debug\CountDownClock.exe
+C:\Users\bacon21\Documents\Visual Studio 2008\Projects\CountDownClock\CountDownClock\bin\Debug\CountDownClock.pdb
+C:\Users\bacon21\Documents\Visual Studio 2008\Projects\CountDownClock\CountDownClock\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\bacon21\Documents\Visual Studio 2008\Projects\CountDownClock\CountDownClock\obj\Debug\CountDownClock.Properties.Resources.resources
+C:\Users\bacon21\Documents\Visual Studio 2008\Projects\CountDownClock\CountDownClock\obj\Debug\CountDownClock.csproj.GenerateResource.Cache
+C:\Users\bacon21\Documents\Visual Studio 2008\Projects\CountDownClock\CountDownClock\obj\Debug\CountDownClock.exe
+C:\Users\bacon21\Documents\Visual Studio 2008\Projects\CountDownClock\CountDownClock\obj\Debug\CountDownClock.pdb
+C:\Users\bacon21\Documents\Visual Studio 2008\Projects\CountDownClock\CountDownClock\bin\Debug\CountdownClock.exe.manifest
+C:\Users\bacon21\Documents\Visual Studio 2008\Projects\CountDownClock\CountDownClock\bin\Debug\CountdownClock.application
+C:\Users\bacon21\Documents\Visual Studio 2008\Projects\CountDownClock\CountDownClock\obj\Debug\CountdownClock.exe.manifest
+C:\Users\bacon21\Documents\Visual Studio 2008\Projects\CountDownClock\CountDownClock\obj\Debug\CountdownClock.application
+C:\Users\bacon21\Documents\Visual Studio 2008\Projects\CountDownClock\CountDownClock\obj\Debug\CountDownClock.Form1.resources
+C:\Users\bacon21\Documents\Visual Studio 2008\Projects\CountDownClock\CountDownClock\obj\Debug\CountdownClock.AboutBox1.resources
+C:\Users\bacon21\Documents\Visual Studio 2008\Projects\CountDownClock\CountDownClock\obj\Debug\CountdownClock.FrmOptions.resources
+C:\Users\bacon21\Documents\Visual Studio 2008\Projects\CountDownClock\CountDownClock\bin\Debug\Wavs\Alarm_Buzzer.wav
+C:\Users\bacon21\Documents\Visual Studio 2008\Projects\CountDownClock\CountDownClock\bin\Debug\Wavs\Alarm_Classic.wav
+C:\Users\bacon21\Documents\Visual Studio 2008\Projects\CountDownClock\CountDownClock\bin\Debug\Wavs\Alarm_Rooster.wav
+C:\Users\bacon21\Documents\Visual Studio 2008\Projects\CountDownClock\CountDownClock\bin\Debug\Wavs\Sound1.wav
+C:\Users\bacon21\Documents\Visual Studio 2008\Projects\CountDownClock\CountDownClock\bin\Debug\Wavs\Sound2.wav

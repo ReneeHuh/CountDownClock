@@ -1,0 +1,12 @@
+clickable url
+
+possiblely form centering on parent if parent is displaying
+if parrent == visable
+
+total days 
+Weeks/Days 
+c/w added to
+
+next verison 1.2
+
+create installer for it and website
